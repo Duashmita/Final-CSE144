@@ -1,0 +1,43 @@
+# Friend's old files (Fall 2023)
+FinalProjectCSE144.ipynb
+vit_modelbest_model.pth
+vit_modelbest_model.pth.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Large model files (use Google Drive instead)
+*.pth
+*.pth.zip
+*.pt
+*.h5
+*.ckpt
+*.npy
+*.npz
+
+# Dataset
+ucsc-cse-144-spring-2026-final-project/
+ucsc-cse-144-spring-2026-final-project.zip
+data/
+datasets/
+*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# PDFs
+*.pdf
